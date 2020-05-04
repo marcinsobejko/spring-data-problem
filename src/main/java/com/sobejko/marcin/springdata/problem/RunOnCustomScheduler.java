@@ -1,8 +1,3 @@
-/*
- * Copyright (c) {$DateInfo.year} Gigaset Communications GmbH
- *
- */
-
 package com.sobejko.marcin.springdata.problem;
 
 import java.lang.annotation.ElementType;
